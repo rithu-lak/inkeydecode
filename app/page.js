@@ -13,7 +13,7 @@ export default function Home() {
       padding: "2rem"
     }}>
       <div style={{ position: "absolute", top: "1.5rem", left: "1.5rem" }}>
-        <img src="/logo.png" alt="InkeyDecode" style={{ height: "40px" }} />
+        <img src="/logo.png" alt="InkeyDecode" style={{ height: "55px" }} />
       </div>
 
       <div style={{ position: "absolute", top: "1.5rem", right: "1.5rem", display: "flex", gap: "1rem", alignItems: "center" }}>
