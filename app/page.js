@@ -13,7 +13,7 @@ export default function Home() {
       padding: "2rem"
     }}>
       <div style={{ position: "absolute", top: "1.5rem", left: "1.5rem" }}>
-        <span style={{ color: "#d4a0d4", fontSize: "13px", fontWeight: "bold", letterSpacing: "0.1em" }}>RITHU LAK.</span>
+        <img src="/logo.png" alt="InkeyDecode" style={{ height: "40px" }} />
       </div>
 
       <div style={{ position: "absolute", top: "1.5rem", right: "1.5rem", display: "flex", gap: "1rem", alignItems: "center" }}>
